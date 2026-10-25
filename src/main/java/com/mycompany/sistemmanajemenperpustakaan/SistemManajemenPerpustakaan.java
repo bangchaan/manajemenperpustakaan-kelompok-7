@@ -1,4 +1,4 @@
-package main;
+package com.mycompany.sistemmanajemenperpustakaan;
 
 import controller.PerpustakaanController;
 import view.PerpustakaanView;
